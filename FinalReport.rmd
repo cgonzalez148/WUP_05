@@ -73,7 +73,7 @@ fisher.test(table1)
 This numerical summary shows that the p-value of the fishers exact test is 4.23 and the odds ratio is 0.3534128.
 
 # Discussion and Conclusion
-
+     
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 I found no relationship between the people infected vs none infected. The variables were that one group was given a placebo and the other group was given a drug which gave the results of the odds ratio being 0.3534128.
