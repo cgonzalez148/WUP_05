@@ -27,7 +27,7 @@ $H_A$:triUmpsal does effect the prevention of AIDS for DrugUsers.
 
 # Methods
 
-Treatments is a categorical variable
+Treatments is a categorical variable  
 Infected is a categorical variable
 So I use the cat_cat helper file
 
